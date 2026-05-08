@@ -1,0 +1,9 @@
+{
+  "name": "backend",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
